@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: posts
 title: Windows Terminal
 cate1: Tools
 cate2:
